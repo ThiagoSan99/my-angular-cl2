@@ -1,0 +1,20 @@
+:root{
+
+    --variableParrafo: 2rem;
+    --color1: #9300be;
+    --colorfila: #913926;
+
+}
+
+p{
+
+    color: var(--color1);
+    font-size: var(--variableParrafo);
+
+}
+
+tr {
+
+    background-color: var(--colorfila);
+
+}
